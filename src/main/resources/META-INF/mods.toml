@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GPLv3"
+
+[[mods]]
+modId="femaleplasticsurgery"
+version="1.0.0"
+displayName="Female Plastic Surgery: Bust Limit Tweaker"
+authors="Rinko1231"
+description='''
+Modify the upper and lower limits of certain bust-related parameters in the Wildfire's Female Gender mod.
+'''
